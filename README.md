@@ -1,2 +1,3 @@
 ## IEEE PCB Workshop
-Welcome! Here you can find all the materials for our class. For student Syed Shazli
+PCB for student Syed Shazli. PCB board sponsored by IEEE. 
+Ideas: incorporate Wifi through an API
